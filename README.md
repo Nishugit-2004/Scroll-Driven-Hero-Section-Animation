@@ -3,7 +3,7 @@
 
   This is a code bundle for Scroll-Driven Hero Section Animation. 
   Check for results here,
-  figma.com/make/yR5qpkR5vcxNmEHU8Z1eAm/Scroll-Driven-Hero-Section-Animation?p=f&t=S2yuAkF9keMi5d8t-0&fullscreen=1
+  https://www.figma.com/make/yR5qpkR5vcxNmEHU8Z1eAm/Scroll-Driven-Hero-Section-Animation?p=f&t=nfMEjHv5ggVwOODw-0&fullscreen=1
 
   ## Running the code
 
