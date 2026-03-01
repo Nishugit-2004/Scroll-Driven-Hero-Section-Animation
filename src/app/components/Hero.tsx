@@ -37,7 +37,7 @@ export const Hero = () => {
 
       <div className="relative z-10 text-center mb-12">
         <motion.h1 
-          className="text-4xl md:text-7xl lg:text-9xl font-black text-white whitespace-pre-wrap leading-tight tracking-[0.2em]"
+          className="text-4xl md:text-7xl lg:text-9xl font-black text-white whitespace-nowrap leading-tight tracking-[0.2em]"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1.5 }}
